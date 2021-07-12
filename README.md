@@ -1,4 +1,4 @@
-Art Gallery Problem
+# Art Gallery Problem
 
 Algorithm to solve the art gallery problem in Python.
 
